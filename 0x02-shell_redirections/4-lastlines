@@ -1,2 +1,2 @@
-#!/bin/bash
-l -n 10 /etc/passwd
+#!/bin/basn
+tail -n 10 /etc/passwd
